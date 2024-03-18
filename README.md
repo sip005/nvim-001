@@ -42,4 +42,18 @@ In Neovim (nvim), you can efficiently move up and down the document using variou
 Choose the method that best fits your workflow or feels most comfortable to you. Combining these shortcuts can make navigation through the document much faster and more efficient in Neovim.
 ```
 
-### 3. 
+### 3. Getting at the bottom of the page  
+1. Cheange into command mode and type `:$` to go in the bottom of the page
+2. In neutral mode type `G` meaning `SHIFT + g `
+
+### 4. Moving top of the page 
+1. use `gg` to move top of the page
+2. use `0` in neutral mode to move in front of the line 
+
+### 5. Record a Macro 
+1. type `qw` in newtral mode to start recording
+2. perform the changes 
+3. quit form recording `q` 
+4. then types the number@w to implement macro e.g. - 4@w
+
+### 6. 
